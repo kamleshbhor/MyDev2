@@ -29,9 +29,9 @@ namespace TestApp2
             Console.WriteLine("Pune");
         }
 
-        public static void GetCountry()
-        {
-            Console.WriteLine("India");
-        }
+        //public static void GetCountry()
+        //{
+        //    Console.WriteLine("India");
+        //}
     }
 }
