@@ -8,6 +8,8 @@ namespace TestApp2
 {
     class Program
     {
+        //Git Testing
+
         static void Main(string[] args)
         {
             GetName();
