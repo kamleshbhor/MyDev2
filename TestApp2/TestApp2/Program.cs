@@ -27,6 +27,11 @@ namespace TestApp2
         public static void GetCity()
         {
             Console.WriteLine("Pune");
-        } 
+        }
+
+        public static void GetCountry()
+        {
+            Console.WriteLine("India");
+        }
     }
 }
