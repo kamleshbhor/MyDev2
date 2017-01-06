@@ -17,5 +17,10 @@ namespace TestApp2
         {
             Console.WriteLine("Sagitec");
         }
+
+        public static void GetCity()
+        {
+            Console.WriteLine("Pune");
+        } 
     }
 }
