@@ -11,6 +11,7 @@ namespace TestApp2
         static void Main(string[] args)
         {
             GetName();
+            GetCity();
         }
 
         public static void GetName()
